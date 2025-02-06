@@ -1,10 +1,8 @@
 ---
-title: "Mrivera104.github.io"
+title: "Milagros Guadalupe Rivera"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Small little blurb. More will go here soon.
 
 ```{r}
 1 + 1
