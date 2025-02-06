@@ -1,5 +1,5 @@
 ---
-title: "Milagros Guadalupe Rivera"
+#title: "Milagros Guadalupe Rivera"
 image: media/9F636170-020E-41BB-9B14-754940764675.jpg
 toc: false
 about: 
@@ -11,9 +11,13 @@ about:
       href: https://www.linkedin.com/in/milagros-rivera-9bb666232/
     - text: Bluesky
       href: https://bsky.app/profile/floraplasm.bsky.social
+    - text: Github
+      href: https://github.com/Mrivera104
+    - text: Email
+      href: mailto:migriver@ucsc.edu
 ---
 
-Hello there! My name is Milagros Guadalupe Rivera and I am a PhD student at the University of California, Santa Cruz. I am currently studying the genetics of northern elephant seals with a specific interest in demographic recovery of the species after a recent population bottleneck. What does that mean for their genetics and overall fitness? Let's find out together! More broadly, I enjoy population genetics and its application towards the conservation and management of long-lived mammals.
+Hello there! My name is Milagros Guadalupe Rivera and I am a PhD student at the University of California, Santa Cruz. My research is centered around marine mammal conservation using emerging genomic tools. More broadly, I am super interested in population genetics and its application towards the conservation and management of long-lived mammals.
 
 ## Education
 

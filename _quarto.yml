@@ -5,18 +5,20 @@ project:
     - media/
 
 website:
-  title: "Mrivera104.github.io"
+  title: "Flippers and Nucleotides"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: research.qmd
+        text: Research
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    page-layout: full 
 
 editor: visual
 
