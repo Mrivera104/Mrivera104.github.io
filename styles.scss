@@ -1,0 +1,106 @@
+
+
+/*-- scss:defaults --*/
+
+// Import Fonts
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+// Colors
+$black: #000000;
+$pastel-red: #ffadad;
+$red: #ff6361;
+$pastel-orange: #ffd6a5;
+$pastel-yellow: #fdffb6;
+$pastel-green: #caffbf;
+$pastel-blue: #9bf6ff;
+$pastel-navy: #a0c4ff;
+$pstel-purple: #bdb2ff;
+$pastel-fuschia: #ffc6ff;
+$mint: #b8e0d4;
+$pistachio: #d6eadf;
+$raspberry: #eac4d5;
+$pink: #ffb7c5;
+$bubblegum: #ffa0c5;
+$deep-bluegreen: #0a2d2e;
+$agate: #1c4e4f;
+$storm: #436e6f;
+$jade: #6a8e8f;
+$slate: #879693;
+$pleather: #a49e97;
+$coral-blush:#deae9f;
+$light-peach: #efd7cf;
+$soft-beige: #f7ebe7;
+$plum: #8a508f;
+$deep-ocean: #00202e;
+$coffee: #6c584c;
+$white: #FFFFFF;
+
+// Base document colors
+$navbar-bg: $jade; // navbar
+$navbar-fg: $deep-ocean; // navbar foreground elements
+$navbar-hl: $agate; // highlight color when hovering over navbar links
+$body-bg: $soft-beige; // page background 
+$body-color: $coffee; // page text 
+$footer-bg: $soft-beige; // footer 
+$link-color: $pleather; // hyperlinks 
+
+// Inline code
+$code-bg: $pleather; // inline code background color
+$code-color: $coffee; // inline code text color
+
+/*-- scss:rules --*/
+
+* {
+  font-size: 15px;
+}
+
+.container::after {
+  position: relative;
+  position: static;
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: $agate;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 5px;
+}
+
+h1 {
+  letter-spacing: 2px;
+  color: $coffee;
+  font-size: 21px;
+  text-align: left;
+  
+}
+
+h2 {
+  color: $coffee;
+  font-size: 19px;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}
+
+.imgright {
+  float: right;
+  width: 350px;
+  height: 350px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.imgleft {
+  float: left;
+  width: 350px;
+  height: 350px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+

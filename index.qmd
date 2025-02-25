@@ -17,6 +17,8 @@ about:
       href: mailto:migriver@ucsc.edu
 ---
 
+## About
+
 Hello there! My name is Milagros Guadalupe Rivera and I am a PhD student at the University of California, Santa Cruz. My research is centered around marine mammal conservation using emerging genomic tools. More broadly, I am super interested in population genetics and its application towards the conservation and management of long-lived mammals.
 
 ## Education

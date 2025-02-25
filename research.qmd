@@ -1,4 +1,43 @@
 ---
 title: "Research"
-image: media/weanies.jpg
 ---
+<div class="container">
+
+<h1> Genome Assembly of the Northern Elephant Seal </h1>
+
+<p> Something will go here eventually ... <img src="media/weanies.jpg" class="imgright"></p>
+
+</div>
+
+---
+
+<div class="container">
+
+<h1>Understanding Population Structure and Local Adaptation in Northern Elephant Seals by Merging the Landscape and Seascape</h1>
+
+<p>Something will go here eventually ... <img src="media/Ano-Nuevo-Colony.jpg" class="imgleft"></p>
+
+</div>
+
+---
+
+<div class="container">
+
+<h1>Detecting Marine Mammal Populations with a Drop of Water</h1>
+
+<p>Something will go here eventually ... <img src="media/Fluke.jpg" class="imgright"></p>
+
+</div>
+
+---
+
+<div class="container">
+
+<h1>Determining Kinship and Pedigree Construction in a Northern Elephant Seal Colony</h1>
+
+<p>Something will go here eventually ... <img src="media/puppy.jpg" class="imgleft"></p>
+
+</div>
+
+---
+
