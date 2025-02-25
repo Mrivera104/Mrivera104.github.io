@@ -1,3 +1,4 @@
 ---
 title: "Research"
+image: media/weanies.jpg
 ---

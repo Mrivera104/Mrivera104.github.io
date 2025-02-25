@@ -14,7 +14,12 @@ website:
         text: Research
       - href: art.qmd
         text: Scientific Illustration
-
+      - href: media/M_G_Rivera_CV_2025.pdf
+        text: CV
+  page-footer:
+    background: light
+    left: Copyright 2025, Milagros Guadalupe Rivera
+    right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/Mrivera104/Mrivera104.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 format:
   html:
     theme: flatly
