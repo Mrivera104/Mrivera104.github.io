@@ -1,3 +1,49 @@
 ---
-title: "Scientific Illustration"
+title: "Art Gallery"
+image: media/art_header.jpg
+toc: false
+format: html
 ---
+
+<div class="container">
+  <h1>🎨 Scientific Illustrations & Nature Art</h1>
+  <p>
+    A collection of my scientific illustrations and nature-inspired artwork. Click on 
+    an image to view it in full size.
+  </p>
+</div>
+
+::: {.gallery-container}
+
+::: {.gallery-item}
+[![](media/bluewhale.jpeg)](media/bluewhale.jpeg)  
+**Sticker Design** – Digital
+:::
+
+::: {.gallery-item}
+[![](media/leopard_seal.jpg)](media/leopard_seal.jpg)  
+**Illustration** – Digital
+:::
+
+::: {.gallery-item}
+[![](media/sealposter.png)](media/sealposter.png)  
+**Pinnipeds of Monterey Bay** – Digital
+:::
+
+::: {.gallery-item}
+[![](media/n_elephant_seal.jpg)](media/n_elephant_seal.jpg)  
+**Northern Elephant Seal Bull** – Digital
+:::
+
+::: {.gallery-item}
+[![](media/mompup.jpg)](media/mompup.jpg)  
+**Mommy-Puppy Interaction** – Digital
+:::
+
+::: {.gallery-item}
+[![](media/wedseal.jpeg)](media/wedseal.jpeg)  
+**Weddell Seal Doodle** – Digital
+:::
+
+:::
+

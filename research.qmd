@@ -1,43 +1,28 @@
 ---
 title: "Research"
 ---
-<div class="container">
-
-<h1> Genome Assembly of the Northern Elephant Seal </h1>
-
-<p> Something will go here eventually ... <img src="media/weanies.jpg" class="imgright"></p>
-
-</div>
-
----
 
 <div class="container">
-
-<h1>Understanding Population Structure and Local Adaptation in Northern Elephant Seals by Merging the Landscape and Seascape</h1>
-
-<p>Something will go here eventually ... <img src="media/Ano-Nuevo-Colony.jpg" class="imgleft"></p>
-
+  <h1> Genome Assembly of the Northern Elephant Seal </h1>
+  <p> Exploring the genetic blueprint of northern elephant seals to understand their evolutionary history and conservation needs. </p>
+  <img src="media/weanies.jpg" class="imgright">
 </div>
-
----
 
 <div class="container">
-
-<h1>Detecting Marine Mammal Populations with a Drop of Water</h1>
-
-<p>Something will go here eventually ... <img src="media/Fluke.jpg" class="imgright"></p>
-
+  <h1> Understanding Population Structure and Local Adaptation </h1>
+  <p> Investigating how landscape and seascape factors influence genetic diversity in northern elephant seals. </p>
+  <img src="media/Ano-Nuevo-Colony.jpg" class="imgleft">
 </div>
-
----
 
 <div class="container">
-
-<h1>Determining Kinship and Pedigree Construction in a Northern Elephant Seal Colony</h1>
-
-<p>Something will go here eventually ... <img src="media/puppy.jpg" class="imgleft"></p>
-
+  <h1> Detecting Marine Mammal Populations with Environmental DNA </h1>
+  <p> Utilizing eDNA to track marine mammal populations in a non-invasive way. </p>
+  <img src="media/Fluke.jpg" class="imgright">
 </div>
 
----
+<div class="container">
+  <h1> Determining Kinship and Pedigree in a Northern Elephant Seal Colony </h1>
+  <p> Using genomic tools to reconstruct pedigrees and understand family structures in elephant seals. </p>
+  <img src="media/puppy.jpg" class="imgleft">
+</div>
 

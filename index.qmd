@@ -1,5 +1,5 @@
 ---
-#title: "Milagros Guadalupe Rivera"
+title: "Milagros Guadalupe Rivera"
 image: media/9F636170-020E-41BB-9B14-754940764675.jpg
 toc: false
 about: 
@@ -7,30 +7,38 @@ about:
   image-shape: rounded
   image-width: 17em
   links: 
-    - text: LinkedIn
+    - text: 🌿 LinkedIn
       href: https://www.linkedin.com/in/milagros-rivera-9bb666232/
-    - text: Bluesky
+    - text: 🦋 Bluesky
       href: https://bsky.app/profile/floraplasm.bsky.social
-    - text: Github
+    - text: 🧬 Github
       href: https://github.com/Mrivera104
-    - text: Email
+    - text: ✉️ Email
       href: mailto:migriver@ucsc.edu
 ---
 
-## About
+## 🌊 About Me
 
-Hello there! My name is Milagros Guadalupe Rivera and I am a PhD student at the University of California, Santa Cruz. My research is centered around marine mammal conservation using emerging genomic tools. More broadly, I am super interested in population genetics and its application towards the conservation and management of long-lived mammals.
+Hello! My name is **Milagros Guadalupe Rivera**, and I am a PhD student at the **University of California, Santa Cruz**.
 
-## Education
+I specialize in **marine mammal conservation** using **emerging genomic tools**. More broadly, I am passionate about **population genetics** and its applications for **the conservation and management of long-lived mammals**.
 
-**University of California, Santa Cruz** \| Santa Cruz, CA
+I love **diving into genomic mysteries**, working on **data visualization**, and finding new ways to **use bioinformatics for conservation**. When I'm not at my computer, you can find me **exploring tide pools, hiking coastal trails, or enjoying a good cup of coffee! ☕🌿**
 
-*PhD in Ecology and Evolutionary Biology \| September 2022 - Present*
+------------------------------------------------------------------------
 
-**University of California, Santa Cruz** \| Santa Cruz, CA
+## 🎓 Education
 
-*B.S in Marine Biology \| September 2019 - June 2022*
+### **University of California, Santa Cruz** \| Santa Cruz, CA
 
-**Diablo Valley College** \| Pleasant Hill, CA
+**Ph.D. in Ecology & Evolutionary Biology** *(Sept 2022 - Present)*
 
-*A.S in Natural Sciences*
+### **University of California, Santa Cruz** \| Santa Cruz, CA
+
+**B.S. in Marine Biology** *(Sept 2019 - June 2022)*
+
+### **Diablo Valley College** \| Pleasant Hill, CA
+
+**A.S. in Natural Sciences**
+
+------------------------------------------------------------------------
