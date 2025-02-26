@@ -1,21 +1,17 @@
 ---
-title: "Art Gallery"
+title: "Scientific and Nature Illustration"
 image: media/art_header.jpg
 toc: false
 format: html
 ---
 
 ::: container
-<h1>🎨 Scientific Illustrations & Nature Art</h1>
+<h1>Scientific Illustrations & Nature Art</h1>
 
 <p>A collection of my scientific illustrations and nature-inspired artwork. Click on an image to view it in full size.</p>
 :::
 
 ::: gallery-container
-::: gallery-item
-[![](media/bluewhale.jpeg)](media/bluewhale.jpeg)\
-**Sticker Design** -- Digital
-:::
 
 ::: gallery-item
 [![](media/leopard_seal.jpg)](media/leopard_seal.jpg)\
@@ -23,22 +19,102 @@ format: html
 :::
 
 ::: gallery-item
-[![](media/sealposter.png)](media/sealposter.png)\
-**Pinnipeds of Monterey Bay** -- Digital
+[![](media/n_elephant_seal.jpg)](media/n_elephant_seal.jpg)\
+**Illustration** -- Digital
 :::
 
 ::: gallery-item
-[![](media/n_elephant_seal.jpg)](media/n_elephant_seal.jpg)\
-**Northern Elephant Seal Bull** -- Digital
+[![](media/california_sea_lion.jpg)](media/california_sea_lion.jpg)\
+**Illustration** -- Digital
+:::
+
+::: gallery-item
+[![](media/harbor_seal.jpg)](media/harbor_seal.jpg)\
+**Illustration** -- Digital
+:::
+
+::: gallery-item
+[![](media/sealposter.png)](media/sealposter.png)\
+**Illustration** -- Digital
+:::
+
+::: gallery-item
+[![](media/spider.png)](media/spider.png)\
+**Illustration** -- Digital
+:::
+
+::: gallery-item
+[![](media/bluewhale.jpg)](media/bluewhale.jpg)\
+**Sticker Design** -- Digital
+:::
+
+::: gallery-item
+[![](media/beakedwhale.jpeg)](media/beakedwhale.jpeg)\
+**Sticker Design** -- Digital
+:::
+
+::: gallery-item
+[![](media/humpback.jpeg)](media/humpback.jpeg)\
+**Sticker Design** -- Digital
+:::
+
+::: gallery-item
+[![](media/southright.jpeg)](media/southright.jpeg)\
+**Sticker Design** -- Digital
+:::
+
+::: gallery-item
+[![](media/chunkness.png)](media/chunkness.png)\
+**Sticker Design** -- Digital
+:::
+
+::: gallery-item
+[![](media/leopardseal.jpeg)](media/leopardseal.jpeg)\
+**Sticker Design** -- Digital
+:::
+
+::: gallery-item
+[![](media/manatee.png)](media/manatee.png)\
+**Sticker Design** -- Digital
+:::
+
+::: gallery-item
+[![](media/orcamoon.jpeg)](media/orcamoon.jpeg)\
+**Sticker Design** -- Digital
+:::
+
+::: gallery-item
+[![](media/bananaseal.jpeg)](media/bananaseal.jpeg)\
+**Sticker Design** -- Digital
 :::
 
 ::: gallery-item
 [![](media/mompup.jpg)](media/mompup.jpg)\
-**Mommy-Puppy Interaction** -- Digital
+**Drawing** -- Digital
+:::
+
+::: gallery-item
+[![](media/sealkelp.jpg)](media/sealkelp.jpg)\
+**Drawing** -- Digital
 :::
 
 ::: gallery-item
 [![](media/wedseal.jpeg)](media/wedseal.jpeg)\
-**Weddell Seal Doodle** -- Digital
+**Drawing** -- Digital
+:::
+
+::: gallery-item
+[![](media/seaslug.jpg)](media/seaslug.jpg)\
+**Drawing** -- Digital
+:::
+
+::: gallery-item
+[![](media/taki.jpeg)](media/taki.jpeg)\
+**Drawing** -- Digital
+:::
+
+::: gallery-item
+[![](media/nesboys.jpeg)](media/nesboys.jpeg)\
+**Sketch** -- Digital
 :::
 :::

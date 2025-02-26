@@ -21,9 +21,9 @@ about:
 
 Hello! My name is **Milagros Guadalupe Rivera**, and I am a PhD student at the **University of California, Santa Cruz**.
 
-I specialize in **marine mammal conservation** using **emerging genomic tools**. More broadly, I am passionate about **population genetics** and its applications for **the conservation and management of long-lived mammals**.
+I specialize in **marine mammal conservation** using **emerging genomic tools**. More broadly, I am passionate about **population genomics** and its applications for **the conservation and management of long-lived mammals**.
 
-I love **diving into genomic mysteries**, working on **data visualization**, and finding new ways to **use bioinformatics for conservation**. When I'm not at my computer, you can find me **exploring tide pools, hiking coastal trails, or enjoying a good cup of coffee! ☕🌿**
+I love **diving into genomic mysteries**, working on **data visualization**, and finding new ways to **use bioinformatics for conservation**. When I'm not at my computer, you can find me **exploring tide pools, making art, or enjoying a good cup of coffee ☕🌿**
 
 ------------------------------------------------------------------------
 
